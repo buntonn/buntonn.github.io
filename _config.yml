@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Nick Bunton Web Development Blog
+description: Blogging About Web Development
+meta_description: "Nick Bunton, Blogging about web development"
 
 aboutPage: true
 
@@ -17,8 +17,8 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'Nick Bunton'
+authorTwitter:  '@nucubedesign'
 
 permalink:       /:year/:title/
 
