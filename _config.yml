@@ -12,8 +12,8 @@ paginate: 20
 baseurl: /
 domain_name: 'https://buntonn@github.io'
 google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+disqus: true
+disqus_shortname: 'nickbunton'
 
 # Details for the RSS feed generator
 url:            'https://buntonn@github.io'
