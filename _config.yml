@@ -13,7 +13,7 @@ baseurl: /
 domain_name: 'https://buntonn@github.io'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
-disqus_shortname: 'web-dev-blog'
+disqus_shortname: 'nick-bunton'
 
 # Details for the RSS feed generator
 url:            'https://buntonn@github.io'
